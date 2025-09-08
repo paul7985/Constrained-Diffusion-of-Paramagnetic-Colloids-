@@ -29,12 +29,3 @@ and the phenomenon of **caging** in ferromagnetic colloids.
 
 **MSD with drift correction**  
 ![Correction method comparison](figures/Traj_corrigees_MSD.png)
-
----
-
-## ▶️ How to run
-
-### MATLAB
-Open `src/analysis_MSD.m` and run:
-```matlab
-run('src/analysis_MSD.m')
